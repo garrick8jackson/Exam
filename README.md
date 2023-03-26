@@ -26,8 +26,7 @@ This tutorial outlines how to create a virtual machine using Microsoft azure.<br
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="![image](https://user-images.githubusercontent.com/38325200/227809915-47a5fa09-ad33-4106-b1f9-e5b17077a12f.png)
-" height="80%" width="80%" alt="Azure Portal menu"/>
+"![image](https://user-images.githubusercontent.com/38325200/227809915-47a5fa09-ad33-4106-b1f9-e5b17077a12f.png)"
 </p>
 <p>
 step 1:
@@ -36,7 +35,7 @@ Go to the Microsoft Azure Portal and login.
 <br />
 
 <p>
-<img src="![image](https://user-images.githubusercontent.com/38325200/227809915-47a5fa09-ad33-4106-b1f9-e5b17077a12f.png)" height="80%" width="80%" alt="Resource Group"/>
+![image](https://user-images.githubusercontent.com/38325200/227810220-9c841364-ad00-458d-bf50-cfc6f26c778a.png)
 </p>
 <p>Step 2:
 Once logged in navigate to the menu and select resource group. Create a resource group with a title relative to the virtual machine you will be creating. Select time zone and create resource group. 
