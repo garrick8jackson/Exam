@@ -35,7 +35,7 @@ Go to the Microsoft Azure Portal and login.
 <br />
 
 <p>
-![image](https://user-images.githubusercontent.com/38325200/227810220-9c841364-ad00-458d-bf50-cfc6f26c778a.png)
+<img src="https://github.com/garrick8jackson/Exam/blob/main/Image%203-26-23%20at%204.57%20PM.jpeg?raw=true" >
 </p>
 <p>Step 2:
 Once logged in navigate to the menu and select resource group. Create a resource group with a title relative to the virtual machine you will be creating. Select time zone and create resource group. 
