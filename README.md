@@ -28,8 +28,8 @@ This tutorial outlines how to create a virtual machine using Microsoft azure.<br
 <p>
 <img src="https://github.com/garrick8jackson/Exam/blob/main/Image%203-26-23%20at%204.55%20PM.jpeg?raw=true" >
 </p>
+<h3>Step 1:</h3>
 <p>
-step 1:
 Go to the Microsoft Azure Portal and login.
 </p>
 <br />
@@ -37,14 +37,15 @@ Go to the Microsoft Azure Portal and login.
 <p>
 <img src="https://github.com/garrick8jackson/Exam/blob/main/Image%203-26-23%20at%204.57%20PM.jpeg?raw=true" >
 </p>
-<p>Step 2:
+<h4>Step 2:</h4>
+<p>
 Once logged in navigate to the menu and select resource group. Create a resource group with a title relative to the virtual machine you will be creating. Select time zone and create resource group. 
 
 <p>
-![image](https://user-images.githubusercontent.com/38325200/227810319-21c2f93f-7886-4494-937a-93a3718265b0.png)
+<img src="https://github.com/garrick8jackson/Exam/blob/main/Image%203-26-23%20at%204.58%20PM.jpeg?raw=true" >
 </p>
+<h5>Step 3:</h5>
 <p>
-Step 3:
 After you've created your resource group navigate back the menu and select virtual machines. Create a virtual machine putting it in the resource group you created in the first step. Select same or similar timeframe that the resource group was put in, select your program(Windows 10 pro), and create the username/password you'll be using to access the virtual machine once created. 
 <br />
 </p>
