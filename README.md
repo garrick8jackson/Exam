@@ -26,7 +26,7 @@ This tutorial outlines how to create a virtual machine using Microsoft azure.<br
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-"![image](https://user-images.githubusercontent.com/38325200/227809915-47a5fa09-ad33-4106-b1f9-e5b17077a12f.png)"
+<img src="https://github.com/garrick8jackson/Exam/blob/main/Image%203-26-23%20at%204.55%20PM.jpeg?raw=true" >
 </p>
 <p>
 step 1:
