@@ -24,7 +24,7 @@ This tutorial outlines how to create a virtual machine using Microsoft azure.<br
   Once the resource group is created go to virtual machines and create a virtual machine assigned to the resource group. Now you can access the virtual machine via your remote desktop application and start experimenting.
 
 <h2>Deployment and Configuration Steps</h2>
-![Image 3-26-23 at 5 08 PM](https://user-images.githubusercontent.com/38325200/227809705-4539efcd-b068-4468-89c9-458dcc8adcd1.jpeg)
+
 <p>
 <img src="![Image 3-26-23 at 5 08 PM](https://user-images.githubusercontent.com/38325200/227809705-4539efcd-b068-4468-89c9-458dcc8adcd1.jpeg)" height="80%" width="80%" alt="Azure Portal menu"/>
 </p>
