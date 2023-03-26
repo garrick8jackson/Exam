@@ -36,13 +36,13 @@ Go to the Microsoft Azure Portal and login.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://user-images.githubusercontent.com/38325200/227809915-47a5fa09-ad33-4106-b1f9-e5b17077a12f.png)" height="80%" width="80%" alt="Resource Group"/>
 </p>
 <p>Step 2:
 Once logged in navigate to the menu and select resource group. Create a resource group with a title relative to the virtual machine you will be creating. Select time zone and create resource group. 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Virtual Machine"/>
 </p>
 <p>
 Step 3:
