@@ -26,7 +26,7 @@ This tutorial outlines how to create a virtual machine using Microsoft azure.<br
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="file:///Users/garrickjacksonjr/Pictures/Photos%20Library.photoslibrary/originals/3/34D8E64E-0BED-434F-8508-A0F4D9FEA8A7.jpeg" height="80%" width="80%" alt="Azure Portal menu"/>
+<img src="![Image 3-26-23 at 5 08 PM](https://user-images.githubusercontent.com/38325200/227809705-4539efcd-b068-4468-89c9-458dcc8adcd1.jpeg)" height="80%" width="80%" alt="Azure Portal menu"/>
 </p>
 <p>
 step 1:
